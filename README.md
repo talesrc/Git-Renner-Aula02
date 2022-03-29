@@ -6,3 +6,5 @@ Olá, meu nome é Tales, entrei nesse curso com o objetivo de me aprofundar mais
 - Cozinho;
 - Amo matemática;
 - Amo jogar futebol;
+
+Os três arquivos vazios foram removidos.
