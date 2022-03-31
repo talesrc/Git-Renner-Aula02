@@ -16,4 +16,7 @@ Especificações:
 	12gb RAM;
 	gtx 1650.
 
-# Exercitando navegação e criação de branches
+## Exercitando navegação e criação de branches
+
+#Feature 1
+Modificando o README.md na feature1
