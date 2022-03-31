@@ -15,3 +15,5 @@ Especificações:
 	Ryzen 7;
 	12gb RAM;
 	gtx 1650.
+
+# Exercitando navegação e criação de branches
