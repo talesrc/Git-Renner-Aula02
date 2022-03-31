@@ -5,6 +5,13 @@ Olá, meu nome é Tales, entrei nesse curso com o objetivo de me aprofundar mais
 ## Curiosidades sobre mim
 - Cozinho;
 - Amo matemática;
-- Amo jogar futebol;
+- Amo jogar futebol.
 
 Os três arquivos vazios foram removidos.
+
+## Meu computador:
+Notebook Acer Nitro 5;
+Especificações:
+	Ryzen 7;
+	12gb RAM;
+	gtx 1650.
