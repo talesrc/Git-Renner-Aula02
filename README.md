@@ -18,7 +18,7 @@ Especificações:
 
 ## Exercitando navegação e criação de branches
 
-#Feature 1
+# Feature 1
 Modificando o README.md na feature1
 
-#Issue - 2
+# Issue - 2
